@@ -6,4 +6,4 @@
 
 # Donate
 
-* PayPal maple.danzoo@gmail.com I want to buy an RC car :)
+* PayPal NatsuminoNeko@gmail.com I want to buy an RC car :)
