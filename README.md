@@ -8,7 +8,6 @@
 
 * [WG_pro](https://github.com/natsuminoneko/wg_pro)
 * [Download](https://github.com/natsuminoneko/wg_pro/releases)
-* [Get More Information](https://twitter.com/NatsuNa79836743/status/1275410790770552835?s=19)
 
 # Donate
 
